@@ -1,4 +1,0 @@
-pboothe.github.com
-==================
-
-Blog
